@@ -2,7 +2,7 @@
 
 
 # 설치할 패키지들
-PACKAGES="vim net-tools openssh-server zsh curl wget git util-linux-user"
+PACKAGES="vim net-tools openssh-server zsh curl wget git util-linux-user passwd sudo"
 
 
 
